@@ -12,4 +12,6 @@ form.addEventListener("submit", (event) => {
   const secondNumber = Number.parseInt(second.value);
 
   div.innerHTML = "<p>" + sumar(firstNumber, secondNumber) + "</p>";
+
+  /*se hicieron cambios, se creo una rama, se hicieron cambios corigiendon un error, se hizo un merge y se elimino la rama*/
 });

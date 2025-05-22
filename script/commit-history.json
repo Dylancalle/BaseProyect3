@@ -152,11 +152,30 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "fae6e25727addb802dd2c1ad0846c10876d0613e",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-22T16:00:06.000Z",
       "message": "Se corrigio un error",
+      "url": "https://github.com/Dylancalle/BaseProyect3/commit/fae6e25727addb802dd2c1ad0846c10876d0613e"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-22"
+    },
+    "coverage": 80,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-22T16:09:47.000Z",
+      "message": "Se quiere cambiar el nombre de commit",
       "url": "https://github.com/Dylancalle/BaseProyect3/commit/HEAD"
     },
     "stats": {
