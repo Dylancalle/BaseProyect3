@@ -6,6 +6,13 @@ function Esbisiesto(numero) {
     }else{
         resul= false
     }
+    if(numero % 100 == 0 && numero % 400 != 0)
+    {
+        resul = false
+    }else{
+        resul = true
+    }
+    
     return resul
   }
   
