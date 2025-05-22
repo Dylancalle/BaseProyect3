@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "adab229aa854e2874814434373abc691e895f4d5",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-22T13:37:39.000Z",
       "message": "Se agrego la funcion de restar para probar la cobertura sin test",
-      "url": "https://github.com/Dylancalle/BaseProyect3/commit/HEAD"
+      "url": "https://github.com/Dylancalle/BaseProyect3/commit/adab229aa854e2874814434373abc691e895f4d5"
     },
     "stats": {
       "total": 0,
@@ -131,5 +131,24 @@
     "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-22T13:40:23.000Z",
+      "message": "mas funciones para probar cobertura",
+      "url": "https://github.com/Dylancalle/BaseProyect3/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-22"
+    },
+    "coverage": 73.33,
+    "test_count": 5,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
