@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "fb3e4b6c406f5193611bac061b8540cea2a544cf",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-22T12:18:34.000Z",
       "message": "Parte dos del tdd proceso",
-      "url": "https://github.com/Dylancalle/BaseProyect3/commit/HEAD"
+      "url": "https://github.com/Dylancalle/BaseProyect3/commit/fb3e4b6c406f5193611bac061b8540cea2a544cf"
     },
     "stats": {
       "total": 0,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-22T12:22:04.000Z",
+      "message": "Se agrego un tercer commit pero se evitara usar push por commit",
+      "url": "https://github.com/Dylancalle/BaseProyect3/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-22"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
