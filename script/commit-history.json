@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "169531ce411f0624c482a1f1fc72ccb81d7d7bb5",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-22T12:33:38.000Z",
       "message": "Se agrego un quinto commit para probar cobertura al cincuenta por ciento",
-      "url": "https://github.com/Dylancalle/BaseProyect3/commit/HEAD"
+      "url": "https://github.com/Dylancalle/BaseProyect3/commit/169531ce411f0624c482a1f1fc72ccb81d7d7bb5"
     },
     "stats": {
       "total": 0,
@@ -91,6 +91,25 @@
     },
     "coverage": 92.86,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-22T13:34:10.000Z",
+      "message": "Se volvieron a cambios anteriores",
+      "url": "https://github.com/Dylancalle/BaseProyect3/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-22"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
